@@ -44,4 +44,4 @@ jobs:
         run: |
           .\.sonar\scanner\dotnet-sonarscanner begin /k:"bharadwajralla_HMSAPPUI" /o:"bharadwajralla" /d:sonar.token="${{ secrets.SONAR_TOKEN }}"
           dotnet build
-          .\.sonar\scanner\dotnet-sonarscanner end /d:sonar.token="${{ secrets.SONAR_TOKEN }}"
+          .\.sonar\scanner\dotnet-sonarscanner end /d:sonar.token="d4d08def5cdb7b162a50ab62d0eaa12a53b160bf"
