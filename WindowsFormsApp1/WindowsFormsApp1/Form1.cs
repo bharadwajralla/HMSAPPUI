@@ -16,6 +16,7 @@ namespace WindowsFormsApp1
         {
             Console.WriteLine("Hello, World!");
             InitializeComponent();
+            test
         }
     }
 }
