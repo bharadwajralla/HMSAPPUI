@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36301.6
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApi", "TestApi\TestApi.csproj", "{6F97A7A4-E860-4870-ADAE-8F322EBB2250}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HMSUI", "TestApi\HMSUI.csproj", "{6F97A7A4-E860-4870-ADAE-8F322EBB2250}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
